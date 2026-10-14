@@ -2,6 +2,8 @@
 
 A grim 2D RPG with a living world to explore, turn-based battles and a flexible build system. You are a spawn of the curse that torments this world, awakened at the site of an unknown ritual, trying to piece together what happened and to survive.
 
+As the game is updated, we'll post demos of new mechanics, items, animations, early game builds, and more here.
+
 ## What to expect
 
 - **Shape your build** by combining unique and legendary items with the effects you need, a passive skill tree and a wide choice of augments for your active abilities.
